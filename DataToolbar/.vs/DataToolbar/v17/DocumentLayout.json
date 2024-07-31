@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|d:\\github\\datatoolbar-arcpro\\datatoolbar\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|solutionrelative:config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|d:\\github\\datatoolbar-arcpro\\datatoolbar\\datatoolbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|solutionrelative:datatoolbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|d:\\github\\datatoolbar-arcpro\\datatoolbar\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{64debe95-07ea-48ac-8744-af87605d624a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataToolbar.cs",
+              "DocumentMoniker": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\DataToolbar.cs",
+              "RelativeDocumentMoniker": "DataToolbar.cs",
+              "ToolTip": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\DataToolbar.cs",
+              "RelativeToolTip": "DataToolbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:56:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T14:54:35.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.daml",
+              "DocumentMoniker": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Config.daml",
+              "RelativeDocumentMoniker": "Config.daml",
+              "ToolTip": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Config.daml",
+              "RelativeToolTip": "Config.daml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-22T14:53:18.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3225f881-13f0-470c-9e7b-28d44e6a7237}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\DataToolbar-ArcPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar\\DataToolbar.csproj|d:\\github\\datatoolbar-arcpro\\datatoolbar\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17BE5F0C-A38A-4E1D-9A01-FC2A10984D2E}|DataToolbar\\DataToolbar.csproj|solutionrelative:datatoolbar\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{64debe95-07ea-48ac-8744-af87605d624a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.daml",
+              "DocumentMoniker": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Config.daml",
+              "RelativeDocumentMoniker": "DataToolbar\\Config.daml",
+              "ToolTip": "D:\\GitHub\\DataToolbar-ArcPro\\DataToolbar\\Config.daml",
+              "RelativeToolTip": "DataToolbar\\Config.daml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T07:39:09.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

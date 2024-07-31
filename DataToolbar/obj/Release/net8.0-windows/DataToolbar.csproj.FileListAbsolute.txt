@@ -1,0 +1,12 @@
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\bin\Release\net8.0-windows\DataToolbar.deps.json
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\bin\Release\net8.0-windows\DataToolbar.dll
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\bin\Release\net8.0-windows\DataToolbar.pdb
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.csproj.AssemblyReference.cache
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.AssemblyInfoInputs.cache
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.AssemblyInfo.cs
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.csproj.CoreCompileInputs.cache
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.dll
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\refint\DataToolbar.dll
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\DataToolbar.pdb
+D:\GitHub\DataToolbar-ArcPro\DataToolbar\obj\Release\net8.0-windows\ref\DataToolbar.dll
